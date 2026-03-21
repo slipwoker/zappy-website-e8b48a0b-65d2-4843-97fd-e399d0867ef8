@@ -1,0 +1,83 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### בית
+https://example.com
+ברוכים הבאים ל-Pinky&#39;s, חנות הצעצועים והאביזרים המובילה! מבחר עצום של מוצרים לילדים ולמבוגרים, במחירים שלא תמצאו בשום מקום אחר. בואו לגלות את הקסם!
+
+### אודות
+https://example.com/about
+Pinky&#39;s נולדה מאהבה אמיתית לצעצועים ולשמחת הילדים. גלו את הערכים, החזון והצוות המסור שהופכים כל ביקור לחוויה בלתי נשכחת. הכירו אותנו מקרוב!
+
+### רעיונות למתנות
+https://example.com/gift-ideas
+מחפשים מתנה שתשאיר חיוך על הפנים? ב-Pinky&#39;s תמצאו רעיונות מקוריים ומרגשים לכל גיל ולכל אירוע. מתנות שיזכרו לנצח — בואו לבחור עוד היום!
+
+### שאלות נפוצות
+https://example.com/faq
+יש לכם שאלות על המוצרים, המשלוחים או המדיניות של Pinky&#39;s? ריכזנו עבורכם את כל התשובות לשאלות הנפוצות ביותר. חסכו זמן ומצאו את כל המידע כאן!
+
+### צור קשר
+https://example.com/contact
+צוות Pinky&#39;s זמין עבורכם בכל שאלה, בקשה או הצעה! צרו קשר עוד היום ונחזור אליכם במהירות. שירות אישי, חם ומקצועי — כי אצלנו כל לקוח הוא המשפחה שלנו.
+
+### Products
+https://example.com/products
+המוצרים שלנו - Pinky's
+
+### Cart
+https://example.com/cart
+עגלת הקניות שלך
+
+### Checkout
+https://example.com/checkout
+תשלום
+
+### Login
+https://example.com/login
+התחברות לקוחות
+
+### Account
+https://example.com/account
+החשבון שלי
+
+### Order Success
+https://example.com/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://example.com/product/:slug
+פרטי המוצר - Pinky's
+
+### Category
+https://example.com/category/:slug
+מוצרים - Pinky's
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
